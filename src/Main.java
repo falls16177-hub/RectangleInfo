@@ -33,5 +33,6 @@ public class Main {
 
         System.out.println("Area of rectangle: " + area);
         System.out.println("Perimeter of rectangle: " + perimeter);
+
     }
 }
